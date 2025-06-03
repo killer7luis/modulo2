@@ -1,0 +1,18 @@
+div{
+    color: gray;
+    background-color: rgb(33, 34, 36);
+    text-align: center;
+}
+
+.Lista{
+    color: gray;
+    text-align: center;
+    width: 1160px;
+    border: 15px solid rgb(63, 63, 63);
+    padding: 50px;
+    margin: 20px;
+}
+
+.Tabla{
+    color: orangered;
+}
